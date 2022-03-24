@@ -1,0 +1,78 @@
+body
+{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Mulish', sans-serif;
+  color: white;
+  padding-top: 50px;
+}
+
+.container
+{
+  margin: auto;
+  padding: 60px;
+  width: 1500px;
+  border-radius: 15px;
+  background-color: rgba(0,0,0,0.5517915784477854);
+}
+
+header, nav
+{
+  text-align: center;
+}
+
+nav
+{
+  background-color: #00FF00;
+  padding: 10px;
+}
+
+.logo
+{
+  width: 250px;
+}
+
+header > h1
+{
+  color: #00FF00;
+}
+
+h2
+{
+  display: inline-block;
+  margin-bottom: auto;
+}
+
+.arrow:before
+{
+content:"\21A6";
+}
+
+hr
+{
+  margin-left: 0px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+#chargeGino22
+{
+  background-color: #d2691e;
+  border-color: #d2691e;
+  width: 250px;
+}
+
+#chargeMike24
+{
+  background-color: #800080;
+  border-color: #800080;
+  width: 400px;
+}
+
+#chargeFede154
+{
+  background-color: #483d8b;
+  border-color: #483d8b;
+  width: 170px;
+}
